@@ -1,3 +1,4 @@
+![repository-open-graph-template](https://github.com/adambard/learnxinyminutes-docs/assets/141398090/c24ff84e-908b-403f-a162-8c444f5d5b47)
 ---
 language: yaml
 filename: learnyaml.yaml
